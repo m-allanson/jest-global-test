@@ -1,6 +1,8 @@
 # About
 
-Demonstrate Jest test results changing when run on Node.js 8 versus Node.js 6.
+Demonstrate Jest test results changing when run on Node.js 8 versus Node.js 6. 
+
+See https://github.com/facebook/jest/issues/5159 for the resolution.
 
 # Getting started
 
