@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "jest": "^22.0.3",
+    "prettier": "^1.9.2"
+  },
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  }
+}
